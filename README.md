@@ -46,32 +46,37 @@ Signature:   Make ideas visible, traceable, and runnable
 
 ## Featured Projects
 
-<div align="center">
-
-  <a href="https://github.com/guolola/uml-experimental-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guolola&repo=uml-experimental-platform&theme=tokyonight&hide_border=true&border_radius=10" alt="uml-experimental-platform" />
-  </a>
-  <a href="https://github.com/guolola/guolola-element-componentset">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guolola&repo=guolola-element-componentset&theme=tokyonight&hide_border=true&border_radius=10" alt="guolola-element-componentset" />
-  </a>
-  <a href="https://github.com/guolola/Well-engineering-data-center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guolola&repo=Well-engineering-data-center&theme=tokyonight&hide_border=true&border_radius=10" alt="Well-engineering-data-center" />
-  </a>
-
-</div>
+| Project | What it does | Stack | Status |
+| --- | --- | --- | --- |
+| [uml-experimental-platform](https://github.com/guolola/uml-experimental-platform) | AI-assisted software engineering experiment platform for requirements, UML, PlantUML, prototypes, and documents. | JavaScript / React | Active |
+| [guolola-element-componentset](https://github.com/guolola/guolola-element-componentset) | Online demo site for a component set. | HTML | Published |
+| [Well-engineering-data-center](https://github.com/guolola/Well-engineering-data-center) | Well engineering data center prototype. | Vue | Prototype |
 
 ## Data Pulse
 
-<div align="center">
+<table>
+  <tr>
+    <td><strong>Primary language</strong></td>
+    <td>JavaScript, Vue, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Main repository</strong></td>
+    <td><a href="https://github.com/guolola/uml-experimental-platform">uml-experimental-platform</a></td>
+  </tr>
+  <tr>
+    <td><strong>Recent focus</strong></td>
+    <td>AI-assisted modeling, requirements engineering, traceable prototypes</td>
+  </tr>
+</table>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guolola&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guolola&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=guolola&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/guolola?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+  </a>
+  <a href="https://github.com/guolola/uml-experimental-platform">
+    <img src="https://img.shields.io/badge/Main_Project-uml_experimental_platform-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Main project" />
+  </a>
+</p>
 
 ## Contribution Flow
 
@@ -106,12 +111,10 @@ Signature:   Make ideas visible, traceable, and runnable
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=guolola&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
-
-  <br />
-  <br />
-
   <strong>Thanks for visiting. Build clearly, ship thoughtfully.</strong>
+
+  <br />
+  <br />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,50:2563eb,100:0f172a" alt="footer wave" />
 
