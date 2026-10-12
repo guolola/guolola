@@ -1,0 +1,17 @@
+Generated with the built-in image_gen tool. Original fan illustration; not an official game screenshot.
+
+BLUE REVISION (image edit, original pink illustration used as reference):
+Use case: lighting-weather and style-transfer edit.
+Edit the supplied pixel illustration for a Persona 3 Reload BLUE-themed GitHub profile. The user loves this exact illustration: preserve its composition, characters' identities, faces, poses, clothing details, rooftop fence and city architecture, username 'guolola', crisp pixel-art technique, and exact wide framing.
+Change only the atmospheric palette and decorative border. Replace the pervasive pink sunset with a luminous clear spring BLUE daytime sky, white clouds and cool cyan sunlight; use cobalt, azure, ice blue, and deep midnight blue for the environmental shadows, water, distant town and frame. Keep natural skin tones, Aigis's blonde hair, Makoto's dark blue hair, canon dark uniforms and the red ribbon. A small amount of pale pink in cherry blossoms is okay, but the overall art must immediately read as BLUE. Border and small decorative corners in ivory and cyan instead of pink. Keep the original tender rooftop scene: Makoto lying with his head in Aigis's lap. No new objects, no different characters, no redesign, no extra text, no watermark. Same image, beautiful spring daylight blue color treatment.
+
+ORIGINAL:
+
+Use case: stylized-concept.
+Asset: wide pixel-art header illustration for guolola's GitHub README, landscape 1536x768.
+Primary request: Persona 3 Reload's poignant spring SCHOOL ROOFTOP scene: Makoto Yuki (結城理) lies peacefully with his head resting in Aigis's lap, and Aigis gently cradles him. A tender, quiet scene, not action.
+Subject accuracy: Makoto has short dark navy-blue hair with a long side-swept fringe, eyes closed, black Gekkoukan school uniform with white collar. Aigis is the recognizable blonde android girl with short blonde bob, blue eyes, mechanical ear units/headband, wearing her Gekkoukan school uniform (black/dark jacket, white shirt, red ribbon, dark pleated skirt). She sits on the rooftop, leaning slightly toward him with a soft caring expression, one hand supporting his head and the other near his shoulder. Makoto's body lies across the rooftop and his head is on her lap; clearly two distinct complete, anatomically coherent figures. Their faces are large enough to read at README display size.
+Scene: sunlit school rooftop, low wall and chain-link safety fence, soft spring sky and distant town, a few drifting cherry-blossom petals. Warm bittersweet serenity. Keep important scene and figures central/right. A small unobtrusive pixel-font username 'guolola' sits in the upper left sky, no other text.
+Style: BEAUTIFUL genuine 16-bit pixel art, visible discrete square pixel clusters and crisp stepped outlines, constrained palette, carefully placed dithering, anime sprite faces, rich environmental pixel-art detail. No smooth illustration disguised by a pixel filter, no airbrush, no 3D. Medium-wide cinematic composition, not super-deformed chibi.
+Palette: overwhelmingly soft sakura blush, pale pink sky/clouds and blossom accents, cream sunlight, lavender roof shadows, gentle pale blue touches. Preserve the characters' canon dark uniforms and Makoto's blue hair. Elegant fine pixel border in rose and ivory ties into a pink personal homepage. No oversized interface windows blocking the scene.
+Constraints: depict the requested rooftop lap-rest scene, no weapons, no injury, no extra characters, no logos/watermarks, only the exact username 'guolola'.

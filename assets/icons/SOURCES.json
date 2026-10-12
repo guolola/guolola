@@ -1,0 +1,122 @@
+[
+  {
+    "name": "typescript",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "javascript",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "html5",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "css3",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "react",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "nextjs",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "vuejs",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "tailwindcss",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "nodejs",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "fastify",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "postgresql",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "redis",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "vite",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "vitest",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "playwright",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "nginx",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "git",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "githubactions",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "python",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "fastapi",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "sqlalchemy",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "mysql",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "rabbitmq",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg",
+    "version": "original"
+  },
+  {
+    "name": "webpack",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg",
+    "version": "original"
+  }
+]

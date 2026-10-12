@@ -1,0 +1,13 @@
+Generated with the built-in image_gen tool, using p3-rooftop-blue.png as reference.
+
+Use case: identity-preserve animation keyframes.
+Make a precise ANIMATION SPRITE SHEET from the supplied blue pixel-art rooftop illustration. This is a technical animation asset, not a new composition.
+Output a 2 COLUMN x 3 ROW grid of exactly SIX equal 2:1 landscape frames. Entire output aspect ratio 4:3, ideally 2048x1536, each cell 1024x512. No gutters, no gaps, no frame labels. Read order left to right, top to bottom.
+Every cell repeats the EXACT supplied scene and framing, characters, fence, city, border and username guolola with pixel-perfect positional consistency. The only differences across the six frames must be tiny character motion:
+1: Original open blue eyes of Aigis; relaxed pose.
+2: Aigis tilts her face toward Makoto by just 2 degrees; fringe sways 2 pixels. Makoto chest rises very slightly as he breathes.
+3: Aigis eyelids half closed starting a blink, same gentle head position.
+4: Aigis eyes fully closed in a soft blink, calm small smile; Makoto chest at upper breath position.
+5: Aigis eyelids half open ending blink, hair returns.
+6: Original open eyes and original pose, ready to loop seamlessly into frame 1.
+Keep Makoto's eyes closed throughout. He remains resting with his head in her lap. Her hands support him in the same position. Subtle breathing, no speaking, no large movement, no camera motion. The sky, rooftop and fence MUST NOT MOVE between cells. Preserve exquisite crisp pixel-art and vivid blue daylight palette, natural skin, blonde Aigis and dark-blue-haired Makoto. Preserve the decorative white-blue border and guolola text in each cell. No extra text or watermark. Six aligned animation frames of the SAME SCENE, not six different illustrations.

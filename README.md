@@ -1,121 +1,103 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,45:2563eb,100:7c3aed&text=guolola&fontAlign=50&fontAlignY=38&fontSize=76&fontColor=ffffff&desc=AI%20Assisted%20Software%20Engineering%20%7C%20UML%20Modeling%20%7C%20Frontend%20Prototypes&descAlign=50&descAlignY=58&descSize=18" alt="guolola profile banner" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/p3-character-still.png" />
+  <img src="./assets/p3-character-motion.gif" width="100%" alt="蓝色春日天台，结城理枕在埃癸斯膝上，埃癸斯轻轻眨眼低头，人物随呼吸微动" />
+</picture>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Turning+requirements+into+traceable+models.;Building+AI-assisted+UML+and+software+engineering+tools.;Designing+frontend+prototypes+that+make+systems+visible." alt="Typing SVG" />
-  </a>
+<br />
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=guolola&style=for-the-badge&color=2563eb" alt="profile views" />
-    <img src="https://img.shields.io/github/followers/guolola?style=for-the-badge&logo=github&color=7c3aed&label=Followers" alt="followers" />
-    <img src="https://img.shields.io/github/stars/guolola/uml-experimental-platform?style=for-the-badge&logo=github&color=0ea5e9&label=Main%20Project" alt="main project stars" />
-  </p>
-
-</div>
-
----
-
-## Console
-
-```txt
-guolola@github
------------------------------
-Role:        AI-assisted software engineering explorer
-Focus:       UML modeling, requirements engineering, prototypes
-Stack:       JavaScript, Vue, HTML, CSS, Node.js
-Current:     Building experimental platforms for software engineering education
-Signature:   Make ideas visible, traceable, and runnable
-```
-
-## Tech Arsenal
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=js,vue,html,css,nodejs,git,github,vscode,figma&theme=dark" alt="skill icons" />
-
-  <br />
-  <br />
-
-  <img src="https://img.shields.io/badge/UML_Modeling-111827?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="UML Modeling" />
-  <img src="https://img.shields.io/badge/Requirement_Engineering-1d4ed8?style=flat-square" alt="Requirement Engineering" />
-  <img src="https://img.shields.io/badge/AI_Assisted_Design-7c3aed?style=flat-square" alt="AI Assisted Design" />
-  <img src="https://img.shields.io/badge/Prototype_Systems-0891b2?style=flat-square" alt="Prototype Systems" />
+<a href="https://jianglisoftware.com"><img src="./assets/link-demo.svg" width="176" alt="SoftJL 在线体验" /></a>
+<a href="https://github.com/guolola/SoftJL"><img src="./assets/link-project.svg" width="176" alt="SoftJL 仓库" /></a>
+<a href="https://github.com/guolola?tab=repositories"><img src="./assets/link-repos.svg" width="176" alt="浏览全部仓库" /></a>
 
 </div>
 
-## Featured Projects
+<h2><img src="./assets/section-about.svg" width="100%" alt="关于我" /></h2>
 
-| Project | What it does | Stack | Status |
-| --- | --- | --- | --- |
-| [uml-experimental-platform](https://github.com/guolola/uml-experimental-platform) | AI-assisted software engineering experiment platform for requirements, UML, PlantUML, prototypes, and documents. | JavaScript / React | Active |
-| [guolola-element-componentset](https://github.com/guolola/guolola-element-componentset) | Online demo site for a component set. | HTML | Published |
-| [Well-engineering-data-center](https://github.com/guolola/Well-engineering-data-center) | Well engineering data center prototype. | Vue | Prototype |
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/daniya-still.png" />
+  <img align="right" src="./assets/daniya.gif" width="25%" alt="达妮娅动图" />
+</picture>
 
-## Data Pulse
+### Hi，我是 guolola。
 
-<table>
-  <tr>
-    <td><strong>Primary language</strong></td>
-    <td>JavaScript, Vue, HTML, CSS</td>
-  </tr>
-  <tr>
-    <td><strong>Main repository</strong></td>
-    <td><a href="https://github.com/guolola/uml-experimental-platform">uml-experimental-platform</a></td>
-  </tr>
-  <tr>
-    <td><strong>Recent focus</strong></td>
-    <td>AI-assisted modeling, requirements engineering, traceable prototypes</td>
-  </tr>
-</table>
+🧭 关注 **AI 辅助的软件工程、服务端系统与可视化工具**。
 
-<p align="center">
-  <a href="https://github.com/guolola?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
-  </a>
-  <a href="https://github.com/guolola/uml-experimental-platform">
-    <img src="https://img.shields.io/badge/Main_Project-uml_experimental_platform-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Main project" />
-  </a>
-</p>
+🛠️ 目前主要维护 **[SoftJL](https://github.com/guolola/SoftJL)**，<br />
+围绕需求、UML、系统设计、测试和工程文档，<br />
+构建可追溯的工程实践工作台。
 
-## Contribution Flow
+🌐 [在线体验](https://jianglisoftware.com)　📖 [使用手册](https://jianglisoftware.com/tutorial)
 
-<div align="center">
+<br clear="both" />
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake.svg" />
-  </picture>
+<h2><img src="./assets/section-stack.svg" width="100%" alt="技术栈" /></h2>
 
-</div>
+<p><strong>✦ AI 应用开发</strong></p>
+<p><img src="./assets/icons/tag-llm-api.svg" height="30" alt="LLM API" title="LLM API" /> <img src="./assets/icons/tag-prompt.svg" height="30" alt="Prompt" title="Prompt" /> <img src="./assets/icons/tag-streaming.svg" height="30" alt="Streaming" title="Streaming" /> <img src="./assets/icons/tag-function-calling.svg" height="30" alt="Function Calling" title="Function Calling" /> <img src="./assets/icons/tag-structured-output.svg" height="30" alt="Structured Output" title="Structured Output" /> <img src="./assets/icons/tag-dify.svg" height="30" alt="Dify" title="Dify" /> <img src="./assets/icons/tag-coze.svg" height="30" alt="Coze" title="Coze" /></p>
 
-## Operating Principles
+<p><strong>◈ Agent 工程</strong></p>
+<p><img src="./assets/icons/tag-react.svg" height="30" alt="ReAct" title="ReAct" /> <img src="./assets/icons/tag-plan-and-execute.svg" height="30" alt="Plan-and-Execute" title="Plan-and-Execute" /> <img src="./assets/icons/tag-langchain.svg" height="30" alt="LangChain" title="LangChain" /> <img src="./assets/icons/tag-langgraph.svg" height="30" alt="LangGraph" title="LangGraph" /> <img src="./assets/icons/tag-mcp.svg" height="30" alt="MCP" title="MCP" /> <img src="./assets/icons/tag-a2a.svg" height="30" alt="A2A" title="A2A" /> <img src="./assets/icons/tag-skill.svg" height="30" alt="Skill" title="Skill" /> <img src="./assets/icons/tag-run-trace.svg" height="30" alt="Run Trace" title="Run Trace" /> <img src="./assets/icons/tag-human-in-the-loop.svg" height="30" alt="Human-in-the-loop" title="Human-in-the-loop" /></p>
 
-<table>
-  <tr>
-    <td><strong>Model first</strong></td>
-    <td>Turn vague requirements into explicit, inspectable structures.</td>
-  </tr>
-  <tr>
-    <td><strong>Trace everything</strong></td>
-    <td>Keep the path from requirement to model to prototype visible.</td>
-  </tr>
-  <tr>
-    <td><strong>Prototype fast</strong></td>
-    <td>Use runnable interfaces to test ideas before they harden.</td>
-  </tr>
-</table>
+<p><strong>⌕ RAG</strong></p>
+<p><img src="./assets/icons/tag-embedding.svg" height="30" alt="Embedding" title="Embedding" /> <img src="./assets/icons/tag-vector-search.svg" height="30" alt="Vector Search" title="Vector Search" /> <img src="./assets/icons/tag-chunking.svg" height="30" alt="Chunking" title="Chunking" /> <img src="./assets/icons/tag-context.svg" height="30" alt="Context" title="Context" /> <img src="./assets/icons/tag-hybrid-search.svg" height="30" alt="Hybrid Search" title="Hybrid Search" /> <img src="./assets/icons/tag-rerank.svg" height="30" alt="Rerank" title="Rerank" /></p>
 
----
+<p><strong>▧ 前端工程</strong></p>
+<p><img src="./assets/icons/tile-html5.svg" width="48" height="48" alt="HTML5" title="HTML5" /> <img src="./assets/icons/tile-css3.svg" width="48" height="48" alt="CSS3" title="CSS3" /> <img src="./assets/icons/tile-javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" /> <img src="./assets/icons/tile-typescript.svg" width="48" height="48" alt="TypeScript" title="TypeScript" /> <img src="./assets/icons/tile-vuejs.svg" width="48" height="48" alt="Vue" title="Vue" /> <img src="./assets/icons/tile-react.svg" width="48" height="48" alt="React" title="React" /> <img src="./assets/icons/tile-vite.svg" width="48" height="48" alt="Vite" title="Vite" /> <img src="./assets/icons/tile-webpack.svg" width="48" height="48" alt="Webpack" title="Webpack" /><br /><img src="./assets/icons/tag-pinia.svg" height="30" alt="Pinia" title="Pinia" /> <img src="./assets/icons/tag-sse.svg" height="30" alt="SSE" title="SSE" /> <img src="./assets/icons/tag-websocket.svg" height="30" alt="WebSocket" title="WebSocket" /></p>
 
-<div align="center">
+<p><strong>▣ 后端、数据与异步</strong></p>
+<p><img src="./assets/icons/tile-python.svg" width="48" height="48" alt="Python" title="Python" /> <img src="./assets/icons/tile-fastapi.svg" width="48" height="48" alt="FastAPI" title="FastAPI" /> <img src="./assets/icons/tile-sqlalchemy.svg" width="48" height="48" alt="SQLAlchemy" title="SQLAlchemy" /> <img src="./assets/icons/tile-mysql.svg" width="48" height="48" alt="MySQL" title="MySQL" /> <img src="./assets/icons/tile-redis.svg" width="48" height="48" alt="Redis" title="Redis" /> <img src="./assets/icons/tile-rabbitmq.svg" width="48" height="48" alt="RabbitMQ" title="RabbitMQ" /> <img src="./assets/icons/tile-nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js" /> <img src="./assets/icons/tile-postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" /><br /><img src="./assets/icons/tag-pydantic.svg" height="30" alt="Pydantic" title="Pydantic" /> <img src="./assets/icons/tag-restful-api.svg" height="30" alt="RESTful API" title="RESTful API" /> <img src="./assets/icons/tag-async-tasks.svg" height="30" alt="Async Tasks" title="Async Tasks" /></p>
 
-  <strong>Thanks for visiting. Build clearly, ship thoughtfully.</strong>
+<p><strong>⚙ 工程工具</strong></p>
+<p><img src="./assets/icons/tile-git.svg" width="48" height="48" alt="Git" title="Git" /> <img src="./assets/icons/tile-githubactions.svg" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" /> <img src="./assets/icons/tag-codex.svg" height="30" alt="Codex" title="Codex" /> <img src="./assets/icons/tag-claude-code.svg" height="30" alt="Claude Code" title="Claude Code" /> <img src="./assets/icons/tag-http.svg" height="30" alt="HTTP" title="HTTP" /> <img src="./assets/icons/tag-tcp-ip.svg" height="30" alt="TCP/IP" title="TCP/IP" /></p>
 
-  <br />
-  <br />
+<sub><a href="./assets/STACK-SOURCES.md">↗ 技术信息依据</a></sub>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,50:2563eb,100:0f172a" alt="footer wave" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/blue-divider-still.png" />
+  <img src="./assets/blue-divider.gif" width="100%" alt="蓝色光点分隔动画" />
+</picture>
 
-</div>
+<h2><img src="./assets/section-projects.svg" width="100%" alt="项目" /></h2>
+
+<table width="100%"><tr><td>
+<a href="https://github.com/guolola/SoftJL"><img src="./assets/project-softjl.svg" width="100%" alt="SoftJL" /></a>
+<p>面向毕业设计与课程设计的工程实践工作台，关联需求、UML、系统设计、测试与文档，提供来源追踪与覆盖检查。</p>
+<p>🧩 工程模型　🔗 来源追踪　⚙️ 任务队列　📄 文档服务</p>
+<p><img src="./assets/icons/tile-typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" /> <img src="./assets/icons/tile-react.svg" width="40" height="40" alt="React" title="React" /> <img src="./assets/icons/tile-nextjs.svg" width="40" height="40" alt="Next.js" title="Next.js" /> <img src="./assets/icons/tile-nodejs.svg" width="40" height="40" alt="Node.js" title="Node.js" /> <img src="./assets/icons/tile-fastify.svg" width="40" height="40" alt="Fastify" title="Fastify" /> <img src="./assets/icons/tile-postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" /> <img src="./assets/icons/tile-redis.svg" width="40" height="40" alt="Redis" title="Redis" /></p>
+<p><a href="https://jianglisoftware.com">🌐 在线体验</a>　<a href="https://github.com/guolola/SoftJL">↗ 查看项目</a></p>
+</td></tr></table>
+
+<table width="100%"><tr><td>
+<a href="https://github.com/guolola/Well-engineering-data-center"><img src="./assets/project-well.svg" width="100%" alt="井工程数据中心" /></a>
+<p>面向井工程业务的数据展示与可视化界面。</p>
+<p>📊 数据展示　🧭 可视化界面</p>
+<p><img src="./assets/icons/tile-vuejs.svg" width="40" height="40" alt="Vue" title="Vue" /> <img src="./assets/icons/tile-typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" /> <img src="./assets/icons/tile-vite.svg" width="40" height="40" alt="Vite" title="Vite" /></p>
+<p><a href="https://github.com/guolola/Well-engineering-data-center">↗ 查看项目</a></p>
+</td></tr></table>
+
+<table width="100%"><tr><td>
+<a href="https://github.com/guolola/guolola-element-componentset"><img src="./assets/project-components.svg" width="100%" alt="组件集在线演示" /></a>
+<p>🧩 组件集的在线演示页面。</p>
+<p><img src="./assets/icons/tile-html5.svg" width="40" height="40" alt="HTML5" title="HTML5" /></p>
+<p><a href="https://github.com/guolola/guolola-element-componentset">↗ 查看项目</a></p>
+</td></tr></table>
+
+<p align="right"><a href="https://github.com/guolola?tab=repositories">全部仓库 →</a></p>
+
+<h2><img src="./assets/section-activity.svg" width="100%" alt="贡献记录" /></h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" alt="GitHub 贡献记录动画" src="./assets/github-contribution-grid-snake.svg" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/blue-footer-still.png" />
+  <img src="./assets/blue-footer.gif" width="100%" alt="蓝色循环页脚" />
+</picture>
+
+<p align="center"><sub><a href="./assets/CREDITS.md">素材来源</a></sub></p>
