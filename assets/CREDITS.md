@@ -25,3 +25,11 @@
 
 - [innng](https://github.com/innng/innng)：个人介绍与侧边角色图。
 - [yuna0x0](https://github.com/yuna0x0/yuna0x0)：简短正文与少量链接。
+
+## 人物动画更新
+
+`p3-character-keyframes.png` 是内置 image_gen 基于蓝色插画生成的六帧人物动画素材；`p3-character-motion.gif` 经 `scripts/build_character_motion.cjs` 编排为 64 帧、6.4 秒循环。人物包含眨眼、轻微低头与姿态起伏；固定背景并在人物区域混合关键帧。`p3-character-still.png` 提供减少动态效果回退。
+
+技术栈新增内容来自用户提供的技术能力截图；没有官方图标的概念使用原创蓝色文字徽标，不冒充产品官方 Logo。
+
+贡献图保存于 main 分支的 assets。由于当前 GitHub 凭据不含 workflow 写入权限，原先发布到 output 的定时工作流已停用，以保持仓库只有 main 分支；贡献图当前为迁移时的快照。

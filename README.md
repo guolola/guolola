@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/p3-rooftop-blue.png" />
-  <img src="./assets/p3-rooftop-blue.gif" width="100%" alt="蓝色春日天台，结城理枕在埃癸斯膝上，花瓣轻轻飘落" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/p3-character-still.png" />
+  <img src="./assets/p3-character-motion.gif" width="100%" alt="蓝色春日天台，结城理枕在埃癸斯膝上，埃癸斯轻轻眨眼低头，人物随呼吸微动" />
 </picture>
 
 <br />
@@ -34,19 +34,25 @@
 
 <h2><img src="./assets/section-stack.svg" width="100%" alt="技术栈" /></h2>
 
-<p><strong>⌘ 语言</strong></p>
-<p><img src="./assets/icons/tile-typescript.svg" width="52" height="52" alt="TypeScript" title="TypeScript" /> <img src="./assets/icons/tile-javascript.svg" width="52" height="52" alt="JavaScript" title="JavaScript" /> <img src="./assets/icons/tile-html5.svg" width="52" height="52" alt="HTML5" title="HTML5" /> <img src="./assets/icons/tile-css3.svg" width="52" height="52" alt="CSS3" title="CSS3" /></p>
+<p><strong>✦ AI 应用开发</strong></p>
+<p><img src="./assets/icons/tag-llm-api.svg" height="30" alt="LLM API" title="LLM API" /> <img src="./assets/icons/tag-prompt.svg" height="30" alt="Prompt" title="Prompt" /> <img src="./assets/icons/tag-streaming.svg" height="30" alt="Streaming" title="Streaming" /> <img src="./assets/icons/tag-function-calling.svg" height="30" alt="Function Calling" title="Function Calling" /> <img src="./assets/icons/tag-structured-output.svg" height="30" alt="Structured Output" title="Structured Output" /> <img src="./assets/icons/tag-dify.svg" height="30" alt="Dify" title="Dify" /> <img src="./assets/icons/tag-coze.svg" height="30" alt="Coze" title="Coze" /></p>
 
-<p><strong>◈ 界面与可视化</strong></p>
-<p><img src="./assets/icons/tile-react.svg" width="52" height="52" alt="React" title="React" /> <img src="./assets/icons/tile-nextjs.svg" width="52" height="52" alt="Next.js" title="Next.js" /> <img src="./assets/icons/tile-vuejs.svg" width="52" height="52" alt="Vue" title="Vue" /> <img src="./assets/icons/tile-tailwindcss.svg" width="52" height="52" alt="Tailwind CSS" title="Tailwind CSS" /> <img src="./assets/icons/tile-vite.svg" width="52" height="52" alt="Vite" title="Vite" /></p>
+<p><strong>◈ Agent 工程</strong></p>
+<p><img src="./assets/icons/tag-react.svg" height="30" alt="ReAct" title="ReAct" /> <img src="./assets/icons/tag-plan-and-execute.svg" height="30" alt="Plan-and-Execute" title="Plan-and-Execute" /> <img src="./assets/icons/tag-langchain.svg" height="30" alt="LangChain" title="LangChain" /> <img src="./assets/icons/tag-langgraph.svg" height="30" alt="LangGraph" title="LangGraph" /> <img src="./assets/icons/tag-mcp.svg" height="30" alt="MCP" title="MCP" /> <img src="./assets/icons/tag-a2a.svg" height="30" alt="A2A" title="A2A" /> <img src="./assets/icons/tag-skill.svg" height="30" alt="Skill" title="Skill" /> <img src="./assets/icons/tag-run-trace.svg" height="30" alt="Run Trace" title="Run Trace" /> <img src="./assets/icons/tag-human-in-the-loop.svg" height="30" alt="Human-in-the-loop" title="Human-in-the-loop" /></p>
 
-<p><strong>▣ 服务端与数据</strong></p>
-<p><img src="./assets/icons/tile-nodejs.svg" width="52" height="52" alt="Node.js" title="Node.js" /> <img src="./assets/icons/tile-fastify.svg" width="52" height="52" alt="Fastify" title="Fastify" /> <img src="./assets/icons/tile-postgresql.svg" width="52" height="52" alt="PostgreSQL" title="PostgreSQL" /> <img src="./assets/icons/tile-redis.svg" width="52" height="52" alt="Redis" title="Redis" /></p>
+<p><strong>⌕ RAG</strong></p>
+<p><img src="./assets/icons/tag-embedding.svg" height="30" alt="Embedding" title="Embedding" /> <img src="./assets/icons/tag-vector-search.svg" height="30" alt="Vector Search" title="Vector Search" /> <img src="./assets/icons/tag-chunking.svg" height="30" alt="Chunking" title="Chunking" /> <img src="./assets/icons/tag-context.svg" height="30" alt="Context" title="Context" /> <img src="./assets/icons/tag-hybrid-search.svg" height="30" alt="Hybrid Search" title="Hybrid Search" /> <img src="./assets/icons/tag-rerank.svg" height="30" alt="Rerank" title="Rerank" /></p>
 
-<p><strong>⚙ 测试与部署</strong></p>
-<p><img src="./assets/icons/tile-vitest.svg" width="52" height="52" alt="Vitest" title="Vitest" /> <img src="./assets/icons/tile-playwright.svg" width="52" height="52" alt="Playwright" title="Playwright" /> <img src="./assets/icons/tile-nginx.svg" width="52" height="52" alt="Nginx" title="Nginx" /> <img src="./assets/icons/tile-git.svg" width="52" height="52" alt="Git" title="Git" /> <img src="./assets/icons/tile-githubactions.svg" width="52" height="52" alt="GitHub Actions" title="GitHub Actions" /></p>
+<p><strong>▧ 前端工程</strong></p>
+<p><img src="./assets/icons/tile-html5.svg" width="48" height="48" alt="HTML5" title="HTML5" /> <img src="./assets/icons/tile-css3.svg" width="48" height="48" alt="CSS3" title="CSS3" /> <img src="./assets/icons/tile-javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" /> <img src="./assets/icons/tile-typescript.svg" width="48" height="48" alt="TypeScript" title="TypeScript" /> <img src="./assets/icons/tile-vuejs.svg" width="48" height="48" alt="Vue" title="Vue" /> <img src="./assets/icons/tile-react.svg" width="48" height="48" alt="React" title="React" /> <img src="./assets/icons/tile-vite.svg" width="48" height="48" alt="Vite" title="Vite" /> <img src="./assets/icons/tile-webpack.svg" width="48" height="48" alt="Webpack" title="Webpack" /><br /><img src="./assets/icons/tag-pinia.svg" height="30" alt="Pinia" title="Pinia" /> <img src="./assets/icons/tag-sse.svg" height="30" alt="SSE" title="SSE" /> <img src="./assets/icons/tag-websocket.svg" height="30" alt="WebSocket" title="WebSocket" /></p>
 
-<sub><a href="./assets/STACK-SOURCES.md">↗ 技术图标与项目依据</a></sub>
+<p><strong>▣ 后端、数据与异步</strong></p>
+<p><img src="./assets/icons/tile-python.svg" width="48" height="48" alt="Python" title="Python" /> <img src="./assets/icons/tile-fastapi.svg" width="48" height="48" alt="FastAPI" title="FastAPI" /> <img src="./assets/icons/tile-sqlalchemy.svg" width="48" height="48" alt="SQLAlchemy" title="SQLAlchemy" /> <img src="./assets/icons/tile-mysql.svg" width="48" height="48" alt="MySQL" title="MySQL" /> <img src="./assets/icons/tile-redis.svg" width="48" height="48" alt="Redis" title="Redis" /> <img src="./assets/icons/tile-rabbitmq.svg" width="48" height="48" alt="RabbitMQ" title="RabbitMQ" /> <img src="./assets/icons/tile-nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js" /> <img src="./assets/icons/tile-postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" /><br /><img src="./assets/icons/tag-pydantic.svg" height="30" alt="Pydantic" title="Pydantic" /> <img src="./assets/icons/tag-restful-api.svg" height="30" alt="RESTful API" title="RESTful API" /> <img src="./assets/icons/tag-async-tasks.svg" height="30" alt="Async Tasks" title="Async Tasks" /></p>
+
+<p><strong>⚙ 工程工具</strong></p>
+<p><img src="./assets/icons/tile-git.svg" width="48" height="48" alt="Git" title="Git" /> <img src="./assets/icons/tile-githubactions.svg" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" /> <img src="./assets/icons/tag-codex.svg" height="30" alt="Codex" title="Codex" /> <img src="./assets/icons/tag-claude-code.svg" height="30" alt="Claude Code" title="Claude Code" /> <img src="./assets/icons/tag-http.svg" height="30" alt="HTTP" title="HTTP" /> <img src="./assets/icons/tag-tcp-ip.svg" height="30" alt="TCP/IP" title="TCP/IP" /></p>
+
+<sub><a href="./assets/STACK-SOURCES.md">↗ 技术信息依据</a></sub>
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/blue-divider-still.png" />
@@ -83,8 +89,8 @@
 <h2><img src="./assets/section-activity.svg" width="100%" alt="贡献记录" /></h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake-dark.svg" />
-  <img width="100%" alt="GitHub 贡献记录动画" src="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" alt="GitHub 贡献记录动画" src="./assets/github-contribution-grid-snake.svg" />
 </picture>
 
 <br />

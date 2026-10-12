@@ -1,6 +1,6 @@
 # 技术栈依据
 
-核对日期：2026-10-12。以下只说明公开项目中存在的技术，不代表个人熟练度等级。
+核对日期：2026-10-12。信息包括公开项目核对结果，以及用户在 2026-10-12 提供的技术能力截图。图标和标签不表示统一的熟练度等级。
 
 | 项目与文件 | 依据 |
 | --- | --- |
@@ -17,3 +17,9 @@
 | [组件集在线演示](https://github.com/guolola/guolola-element-componentset) | HTML 页面 |
 
 主项目链接使用当前公开仓库名 SoftJL；未把未核实的框架或语言列入主页。
+
+## 用户提供的技术能力信息
+
+用户在本次对话提供截图，要求用于技术栈区域。新增 AI 应用、Agent、RAG、Python/FastAPI/Pydantic/SQLAlchemy、MySQL、RabbitMQ、Pinia、Webpack、Codex、Claude Code、HTTP/TCP/IP 等信息据此展示，并未声称全部都已在公开仓库核验。
+
+截图中“掌握”“熟悉”“了解”等层级不同，因此主页只列技术名与概念，不统一改写为精通。公开项目中核实的 Node.js、PostgreSQL 等仍保留。
