@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 152" role="img" aria-labelledby="title">
+<title id="title">TypeScript, JavaScript, React, Next.js, Vue, Node.js, PostgreSQL, Redis, Tailwind CSS, Vite, Nginx, Git</title>
+<style>text{font:600 17px 'Segoe UI',Arial,sans-serif;fill:#eaf0ff;text-anchor:middle}.c{fill:#101529;stroke:#24475a}.p{fill:#1b142b;stroke:#634063}.y{fill:#242019;stroke:#655634}</style>
+<g>
+<rect class="c" x="2" y="2" width="158" height="66" rx="8"/><text x="81" y="42">TypeScript</text>
+<rect class="p" x="170" y="2" width="158" height="66" rx="8"/><text x="249" y="42">JavaScript</text>
+<rect class="c" x="338" y="2" width="158" height="66" rx="8"/><text x="417" y="42">React</text>
+<rect class="p" x="506" y="2" width="158" height="66" rx="8"/><text x="585" y="42">Next.js</text>
+<rect class="c" x="674" y="2" width="158" height="66" rx="8"/><text x="753" y="42">Vue</text>
+<rect class="y" x="842" y="2" width="156" height="66" rx="8"/><text x="920" y="42">Node.js</text>
+<rect class="c" x="2" y="82" width="158" height="66" rx="8"/><text x="81" y="122">PostgreSQL</text>
+<rect class="p" x="170" y="82" width="158" height="66" rx="8"/><text x="249" y="122">Redis</text>
+<rect class="c" x="338" y="82" width="158" height="66" rx="8"/><text x="417" y="122">Tailwind CSS</text>
+<rect class="p" x="506" y="82" width="158" height="66" rx="8"/><text x="585" y="122">Vite</text>
+<rect class="c" x="674" y="82" width="158" height="66" rx="8"/><text x="753" y="122">Nginx</text>
+<rect class="y" x="842" y="82" width="156" height="66" rx="8"/><text x="920" y="122">Git</text>
+</g>
+</svg>

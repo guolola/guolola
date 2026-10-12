@@ -37,7 +37,7 @@ Hi，我是 **guolola**。
 ## 02 / 技术栈
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,postgres,redis,tailwind,vite,nginx,git&amp;theme=dark&amp;perline=6" width="360" alt="TypeScript、JavaScript、React、Next.js、Vue、Node.js、PostgreSQL、Redis、Tailwind CSS、Vite、Nginx、Git" />
+  <img src="./assets/stack.svg" width="100%" alt="TypeScript、JavaScript、React、Next.js、Vue、Node.js、PostgreSQL、Redis、Tailwind CSS、Vite、Nginx、Git" />
 </p>
 
 | 方向 | 项目中使用的技术 |
