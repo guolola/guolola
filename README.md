@@ -1,19 +1,16 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-hero-still.png" />
-  <img src="./assets/profile-hero.gif" width="100%" alt="guolola 动态横幅" />
-</picture>
+<img src="./assets/p3-rooftop-pixel.png" width="100%" alt="春日天台上，结城理枕在埃癸斯膝上的像素插画" />
 
 <br />
 
-<a href="https://jianglisoftware.com"><img src="https://img.shields.io/badge/SoftJL-在线体验-4fe4ff?style=for-the-badge&amp;labelColor=0a0b19" alt="SoftJL 在线体验" /></a>
-<a href="https://github.com/guolola/SoftJL"><img src="https://img.shields.io/badge/PROJECT-SoftJL-ff62ba?style=for-the-badge&amp;labelColor=0a0b19&amp;logo=github&amp;logoColor=white" alt="SoftJL 仓库" /></a>
-<a href="https://github.com/guolola?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-ffd228?style=for-the-badge&amp;labelColor=0a0b19" alt="浏览全部仓库" /></a>
+<a href="https://jianglisoftware.com"><img src="./assets/link-demo.svg" width="160" alt="SoftJL 在线体验" /></a>
+<a href="https://github.com/guolola/SoftJL"><img src="./assets/link-project.svg" width="160" alt="SoftJL 仓库" /></a>
+<a href="https://github.com/guolola?tab=repositories"><img src="./assets/link-repos.svg" width="160" alt="浏览全部仓库" /></a>
 
 </div>
 
-## 01 / 关于我
+## <img src="./assets/pixel-heart.svg" width="22" alt="" /> 关于我
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/daniya-still.png" />
@@ -34,7 +31,13 @@ Hi，我是 **guolola**。
 
 <br clear="both" />
 
-## 02 / 技术栈
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pink-divider-still.png" />
+  <img src="./assets/pink-divider.gif" width="100%" alt="粉色像素爱心分隔动画" />
+</picture>
+
+
+## <img src="./assets/pixel-heart.svg" width="22" alt="" /> 技术栈
 
 <p align="center">
   <img src="./assets/stack.svg" width="100%" alt="TypeScript、JavaScript、React、Next.js、Vue、Node.js、PostgreSQL、Redis、Tailwind CSS、Vite、Nginx、Git" />
@@ -52,7 +55,7 @@ Hi，我是 **guolola**。
 
 <sub>依据公开仓库中的依赖清单、实现与部署配置整理：<a href="./assets/STACK-SOURCES.md">查看依据</a>。</sub>
 
-## 03 / 项目
+## <img src="./assets/pixel-heart.svg" width="22" alt="" /> 项目
 
 ### [SoftJL](https://github.com/guolola/SoftJL)
 
@@ -75,11 +78,11 @@ Hi，我是 **guolola**。
 <p align="right"><a href="https://github.com/guolola?tab=repositories">全部仓库 →</a></p>
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/persona-select-still.png" />
-  <img src="./assets/persona-select.gif" width="100%" alt="蓝、黄、红三色动态插画" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pink-divider-still.png" />
+  <img src="./assets/pink-divider.gif" width="100%" alt="粉色像素爱心分隔动画" />
 </picture>
 
-## 04 / 贡献记录
+## <img src="./assets/pixel-heart.svg" width="22" alt="" /> 贡献记录
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake-dark.svg" />
@@ -90,8 +93,8 @@ Hi，我是 **guolola**。
 <br />
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/save-point-still.png" />
-  <img src="./assets/save-point.gif" width="100%" alt="动态页脚" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pink-footer-still.png" />
+  <img src="./assets/pink-footer.gif" width="100%" alt="动态页脚" />
 </picture>
 
 <p align="center"><sub><a href="./assets/CREDITS.md">素材来源</a></sub></p>
