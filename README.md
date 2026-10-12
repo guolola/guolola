@@ -67,4 +67,3 @@
 ---
 
 <sub>角色：达妮娅 © KURO GAMES · <a href="./assets/CREDITS.md">图片来源</a></sub>
-
