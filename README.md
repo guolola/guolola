@@ -1,118 +1,70 @@
-<div align="center">
+# guolola
 
-  <img src="./assets/denia-banner.png" width="100%" alt="guolola — 达妮娅主题横幅，粉紫色星光与泡泡环绕的二次元小宇宙" />
+<img align="right" src="./assets/denia.webp" width="150" alt="达妮娅 · 鸣潮" />
 
-  <br />
-  <br />
+写前端，也做一些 AI 辅助建模工具。
 
-  **白天把想法写成代码，闲暇时去索拉里斯漫游。**
+这里放项目，也聊动画和游戏。鸣潮里喜欢 **达妮娅**。
 
-  AI 辅助软件工程 · UML 建模 · 前端原型 · 鸣潮 / 达妮娅推
+`JavaScript` `Vue` `Node.js`　/　`ACG` `JRPG`
 
-  <p>
-    <a href="https://github.com/guolola?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-我的仓库-b9a0df?style=flat-square&amp;labelColor=30283f" alt="浏览我的仓库" /></a>
-    <a href="https://github.com/guolola/uml-experimental-platform"><img src="https://img.shields.io/badge/BUILDING-UML_实验平台-e5acc8?style=flat-square&amp;labelColor=30283f" alt="正在构建 UML 实验平台" /></a>
-    <img src="https://img.shields.io/badge/心动角色-达妮娅-f1bfd5?style=flat-square&amp;labelColor=30283f" alt="喜欢的角色：鸣潮达妮娅" />
-  </p>
+- 开发：需求分析、UML、前端原型。
+- 游戏：库洛、米哈游、鹰角，以及 Persona 系列。
+- 近况：在做一个软件工程实验平台。
 
-  <sub>✧ Code, dreams &amp; little wonders. ✧</sub>
+<br clear="both" />
 
-</div>
+## 游戏话题
 
-<br />
-
-## ✧ 关于我 · About me
-
-Hi，我是 **guolola**。喜欢把模糊的想法，慢慢变成看得见、讲得清、跑得起来的东西。
-
-- **正在做**：面向软件工程教学的 AI 辅助实验平台。
-- **关注方向**：需求分析、UML 建模，以及从模型到前端原型的完整链路。
-- **日常工具**：JavaScript、Vue、HTML / CSS、Node.js。
-- **代码之外**：喜欢二次元，也喜欢《鸣潮》里的达妮娅。给代码留一点认真，也给喜欢的角色留一个位置。
-
-<p align="center"><img src="./assets/starlight-divider.svg" width="100%" height="32" alt="" /></p>
-
-## ✧ 技能背包 · My toolkit
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=js,vue,html,css,nodejs,git,github,vscode,figma&amp;perline=9&amp;theme=light" width="430" alt="JavaScript、Vue、HTML、CSS、Node.js、Git、GitHub、VS Code、Figma" />
-
-  <br />
-  <br />
-
-  <img src="https://img.shields.io/badge/UML_Modeling-c7b4e8?style=flat-square&amp;logo=diagramsdotnet&amp;logoColor=443653" alt="UML 建模" />
-  <img src="https://img.shields.io/badge/Requirements-ecc0d4?style=flat-square" alt="需求工程" />
-  <img src="https://img.shields.io/badge/AI_Assisted_Design-bbdde8?style=flat-square" alt="AI 辅助设计" />
-  <img src="https://img.shields.io/badge/Prototyping-d6c9f0?style=flat-square" alt="原型设计" />
-
-</div>
-
-<br />
-
-## ✧ 作品陈列室 · Selected works
-
-### 01 / [UML 实验平台](https://github.com/guolola/uml-experimental-platform)
-
-从需求、UML / PlantUML 到原型与文档，让软件工程实验拥有一条清晰、可追溯的路径。
-
-<img src="https://img.shields.io/badge/JavaScript_·_React-b9a0df?style=flat-square" alt="JavaScript / React" /> <img src="https://img.shields.io/badge/持续构建中-e5acc8?style=flat-square" alt="持续构建中" />
-
-### 02 / [组件集在线演示](https://github.com/guolola/guolola-element-componentset)
-
-把组件放进真实页面里，直观展示界面、交互和使用方式。
-
-<img src="https://img.shields.io/badge/HTML-bbdde8?style=flat-square" alt="HTML" /> <img src="https://img.shields.io/badge/已发布-d6c9f0?style=flat-square" alt="已发布" />
-
-### 03 / [井工程数据中心](https://github.com/guolola/Well-engineering-data-center)
-
-面向井工程场景的数据中心原型，把业务信息组织成可浏览的界面。
-
-<img src="https://img.shields.io/badge/Vue-b9dccc?style=flat-square" alt="Vue" /> <img src="https://img.shields.io/badge/原型项目-ecc0d4?style=flat-square" alt="原型项目" />
-
-<br />
-
-<p align="center"><a href="https://github.com/guolola?tab=repositories">查看全部仓库 ↗</a></p>
-
-<p align="center"><img src="./assets/starlight-divider.svg" width="100%" height="32" alt="" /></p>
-
-## ✧ 每日足迹 · Little by little
-
-<p align="center"><sub>让每一次小小的提交，连成自己的星轨。</sub></p>
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake.svg" />
-    <img width="100%" alt="我的 GitHub 贡献蛇动画" src="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake.svg" />
-  </picture>
-
-</div>
-
-<br />
+|  | 作品 |
+| :-- | :-- |
+| 库洛 | **鸣潮** · 战双帕弥什 |
+| 米哈游 | 原神 · 崩坏：星穹铁道 · 绝区零 |
+| 鹰角 | 明日方舟 |
+| JRPG | **女神异闻录 3 / 4 / 5** |
 
 <details>
-  <summary>✧ 我的构建习惯 · Behind the scenes</summary>
+<summary>Persona 3 / 4 / 5</summary>
 
-  <br />
+日历推进、日常社群、迷宫探索与回合制战斗。
 
-  **先建模** — 把模糊需求变成明确、可检查的结构。
+- **P3** — 月光馆学园，影时间。
+- **P4** — 八十稻羽，深夜电视。
+- **P5** — 东京，心之怪盗团。
 
-  **保持可追溯** — 让需求、模型、原型之间的关系始终可见。
-
-  **尽早跑起来** — 用实际界面验证想法，再逐步完善。
+[系列官网](https://persona.atlus.com/)
 
 </details>
 
-<br />
+<details>
+<summary>经典动画 · EVA / 命运石之门 / 星际牛仔</summary>
 
-<div align="center">
+- **新世纪福音战士 / EVA** — 机甲，以及关于自我的问题。
+- **命运石之门 / STEINS;GATE** — 时间旅行与选择。
+- **星际牛仔 / COWBOY BEBOP** — 太空、赏金猎人与爵士乐。
 
-  <img src="./assets/starlight-footer.svg" width="100%" alt="Thanks for stopping by — 愿灵感与喜欢的事物，始终与你同频。" />
+</details>
 
-  <sub>达妮娅主题 · 非官方粉丝主页 · 角色属于《鸣潮》/ KURO GAMES</sub>
-  <br />
-  <sub>横幅为 AI 辅助创作，参考 <a href="https://www.kurobbs.com/mc/post/1505257912809955328?enter_source=2">库街区公开角色宣传图</a>。</sub>
+## 在做的东西
 
-</div>
+- [**UML 实验平台**](https://github.com/guolola/uml-experimental-platform) — AI 辅助需求分析、UML / PlantUML、原型与文档。`JavaScript / React`
+- [**组件集演示**](https://github.com/guolola/guolola-element-componentset) — 组件的在线展示页面。`HTML`
+- [**井工程数据中心**](https://github.com/guolola/Well-engineering-data-center) — 业务数据界面原型。`Vue`
+
+[全部仓库 ↗](https://github.com/guolola?tab=repositories)
+
+<details>
+<summary>贡献记录</summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="GitHub 贡献蛇动画" src="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</details>
+
+---
+
+<sub>角色：达妮娅 © KURO GAMES · <a href="./assets/CREDITS.md">图片来源</a></sub>
+
