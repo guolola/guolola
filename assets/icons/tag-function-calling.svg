@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="168" height="34" viewBox="0 0 168 34"><rect x="1" y="1" width="166" height="32" rx="5" fill="#0a2c60" stroke="#217ddb"/><path d="M13 10l6 7l-6 7l-6-7Z" fill="#31d2ff"/><text x="29" y="22" fill="#e8faff" font-size="13" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Function Calling</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="40" viewBox="0 0 180 40"><rect x="1" y="1" width="178" height="38" rx="6" fill="#102a53" stroke="#326eb8"/><svg x="8" y="8" width="24" height="24"
+  xmlns="http://www.w3.org/2000/svg"
+
+
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="#65ddff"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M8 3H7a2 2 0 0 0-2 2v5a2 2 0 0 1-2 2 2 2 0 0 1 2 2v5c0 1.1.9 2 2 2h1" />
+  <path d="M16 21h1a2 2 0 0 0 2-2v-5c0-1.1.9-2 2-2a2 2 0 0 1-2-2V5a2 2 0 0 0-2-2h-1" />
+</svg>
+<text x="43" y="25" fill="#eef8ff" font-size="13" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Function Calling</text></svg>

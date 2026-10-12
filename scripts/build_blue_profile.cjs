@@ -14,7 +14,7 @@ for(const [i,name,title] of [[1,'about','关于我'],[2,'stack','技术栈'],[3,
 }
 for(const [name,label] of [['demo','SoftJL · 在线体验'],['project','SoftJL · 项目仓库'],['repos','全部仓库 ↗']]) save(`link-${name}.svg`,svg(220,46,`<path d="M0 0H204L220 46H0Z" fill="#0755d9"/><path d="M0 0H6V46H0Z" fill="#22d6f5"/>${text(16,29,label,16)}`));
 for(const [name,title,index] of [['softjl','SoftJL','01'],['well','井工程数据中心','02'],['components','组件集在线演示','03']]) save(`project-${name}.svg`,svg(900,100,`<rect width="900" height="100" fill="#092455"/><path d="M0 0H12V100H0ZM770 0H800L860 100H830Z" fill="#10bff0"/><path d="M805 0H840L900 100H865Z" fill="#1466e5"/>${text(32,66,title,43)}${text(681,71,index,64,'#31c8ff')}`));
-for(const file of fs.readdirSync(path.join(out,'icons')).filter(f=>f.endsWith('.svg')&&!f.startsWith('tile-')&&f!=='vitejs.svg')){
+for(const file of fs.readdirSync(path.join(out,'icons')).filter(f=>f.endsWith('.svg')&&!f.startsWith('tile-')&&!f.startsWith('tag-')&&f!=='vitejs.svg')){
   const raw=fs.readFileSync(path.join(out,'icons',file),'utf8').replace(/<\?xml.*?\?>/s,'').replace(/<svg\b[^>]*>/,m=>m.replace(/\s(?:width|height)="[^"]*"/g,'').replace('<svg','<svg x="12" y="12" width="40" height="40"'));
   save(`icons/tile-${file}`,svg(64,64,`<rect x="1" y="1" width="62" height="62" rx="10" fill="#f0f8ff" stroke="#90d6ff"/><path d="M9 63H53" stroke="#16aff4" stroke-width="2"/>${raw}`));
 }
