@@ -41,3 +41,7 @@
 - Codex、Claude Code、Dify、Coze、LangChain、LangGraph、MCP 使用 [Lobe Icons](https://github.com/lobehub/lobe-icons) 收录的品牌标志（MIT）；Pinia、Pydantic、A2A 来自各自官方仓库。
 - Prompt、流式输出、检索、重排等概念使用 [Lucide](https://github.com/lucide-icons/lucide) 语义图标（ISC），不将通用符号冒充产品 Logo。
 - 新增资源及许可证位于 `icons/source/`，完整来源清单见 [SOURCES.json](./icons/source/SOURCES.json)。徽标合成脚本为 `scripts/build_icon_badges.py`。
+
+## 最终技术栈展示规则
+
+根据用户要求，当前 README 每项技术仅显示一个方形品牌 Logo，名称只用于替代文字和悬停提示；没有品牌标志的概念不显示。概念标签与通用符号已从当前技术栈移除，正文仍保留类别标题。品牌方块由 `scripts/build_brand_tiles.py` 生成。
