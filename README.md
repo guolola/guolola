@@ -1,69 +1,97 @@
-# guolola
+<div align="center">
 
-<img align="right" src="./assets/denia.webp" width="150" alt="达妮娅 · 鸣潮" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-hero-still.png" />
+  <img src="./assets/profile-hero.gif" width="100%" alt="guolola 动态横幅" />
+</picture>
 
-写前端，也做一些 AI 辅助建模工具。
+<br />
 
-这里放项目，也聊动画和游戏。鸣潮里喜欢 **达妮娅**。
+<a href="https://jianglisoftware.com"><img src="https://img.shields.io/badge/SoftJL-在线体验-4fe4ff?style=for-the-badge&amp;labelColor=0a0b19" alt="SoftJL 在线体验" /></a>
+<a href="https://github.com/guolola/SoftJL"><img src="https://img.shields.io/badge/PROJECT-SoftJL-ff62ba?style=for-the-badge&amp;labelColor=0a0b19&amp;logo=github&amp;logoColor=white" alt="SoftJL 仓库" /></a>
+<a href="https://github.com/guolola?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-ffd228?style=for-the-badge&amp;labelColor=0a0b19" alt="浏览全部仓库" /></a>
 
-`JavaScript` `Vue` `Node.js`　/　`ACG` `JRPG`
+</div>
 
-- 开发：需求分析、UML、前端原型。
-- 游戏：库洛、米哈游、鹰角，以及 Persona 系列。
-- 近况：在做一个软件工程实验平台。
+## 01 / 关于我
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/daniya-still.png" />
+  <img align="right" src="./assets/daniya.gif" width="30%" alt="达妮娅，用户提供的动图" />
+</picture>
+
+Hi，我是 **guolola**。
+
+关注 AI 辅助的软件工程、服务端系统与可视化工具。
+
+目前主要维护 **[SoftJL](https://github.com/guolola/SoftJL)**：<br />
+围绕需求、UML、系统设计、测试和工程文档，<br />
+构建可追溯的工程实践工作台。
+
+`TypeScript` `Node.js` `React` `PostgreSQL`
+
+[在线体验](https://jianglisoftware.com) · [使用手册](https://jianglisoftware.com/tutorial)
 
 <br clear="both" />
 
-## 游戏话题
+## 02 / 技术栈
 
-|  | 作品 |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,postgres,redis,tailwind,vite,nginx,git&amp;theme=dark&amp;perline=6" width="360" alt="TypeScript、JavaScript、React、Next.js、Vue、Node.js、PostgreSQL、Redis、Tailwind CSS、Vite、Nginx、Git" />
+</p>
+
+| 方向 | 项目中使用的技术 |
 | :-- | :-- |
-| 库洛 | **鸣潮** · 战双帕弥什 |
-| 米哈游 | 原神 · 崩坏：星穹铁道 · 绝区零 |
-| 鹰角 | 明日方舟 |
-| JRPG | **女神异闻录 3 / 4 / 5** |
+| **语言** | TypeScript · JavaScript · SQL · HTML · CSS |
+| **界面与可视化** | React · Next.js · Vue · Tailwind CSS · ECharts · React Flow |
+| **服务端** | Node.js · Fastify · Zod |
+| **数据与任务** | PostgreSQL · Redis · BullMQ |
+| **AI 与集成** | OpenAI SDK · MCP · PlantUML |
+| **文档与渲染** | ONLYOFFICE · docx · PDFKit |
+| **测试与部署** | Vitest · Playwright · Nginx · PM2 · GitHub Actions |
 
-<details>
-<summary>Persona 3 / 4 / 5</summary>
+<sub>依据公开仓库中的依赖清单、实现与部署配置整理：<a href="./assets/STACK-SOURCES.md">查看依据</a>。</sub>
 
-日历推进、日常社群、迷宫探索与回合制战斗。
+## 03 / 项目
 
-- **P3** — 月光馆学园，影时间。
-- **P4** — 八十稻羽，深夜电视。
-- **P5** — 东京，心之怪盗团。
+### [SoftJL](https://github.com/guolola/SoftJL)
 
-[系列官网](https://persona.atlus.com/)
+面向毕业设计与课程设计的工程实践工作台。关联需求、UML、系统设计、测试与文档，提供来源追踪与覆盖检查；包含 API、任务队列、文档服务及 MCP 接入。
 
-</details>
+`TypeScript` `React / Next.js` `Fastify` `PostgreSQL` `Redis`
 
-<details>
-<summary>经典动画 · EVA / 命运石之门 / 星际牛仔</summary>
+### [井工程数据中心](https://github.com/guolola/Well-engineering-data-center)
 
-- **新世纪福音战士 / EVA** — 机甲，以及关于自我的问题。
-- **命运石之门 / STEINS;GATE** — 时间旅行与选择。
-- **星际牛仔 / COWBOY BEBOP** — 太空、赏金猎人与爵士乐。
+面向井工程业务的数据展示与可视化界面。
 
-</details>
+`Vue` `TypeScript` `ECharts` `Vite`
 
-## 在做的东西
+### [组件集在线演示](https://github.com/guolola/guolola-element-componentset)
 
-- [**UML 实验平台**](https://github.com/guolola/uml-experimental-platform) — AI 辅助需求分析、UML / PlantUML、原型与文档。`JavaScript / React`
-- [**组件集演示**](https://github.com/guolola/guolola-element-componentset) — 组件的在线展示页面。`HTML`
-- [**井工程数据中心**](https://github.com/guolola/Well-engineering-data-center) — 业务数据界面原型。`Vue`
+组件集的在线演示页面。
 
-[全部仓库 ↗](https://github.com/guolola?tab=repositories)
+`HTML`
 
-<details>
-<summary>贡献记录</summary>
+<p align="right"><a href="https://github.com/guolola?tab=repositories">全部仓库 →</a></p>
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/persona-select-still.png" />
+  <img src="./assets/persona-select.gif" width="100%" alt="蓝、黄、红三色动态插画" />
+</picture>
+
+## 04 / 贡献记录
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="GitHub 贡献蛇动画" src="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="GitHub 贡献记录动画" src="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake.svg" />
 </picture>
 
-</details>
+<br />
 
----
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/save-point-still.png" />
+  <img src="./assets/save-point.gif" width="100%" alt="动态页脚" />
+</picture>
 
-<sub>角色：达妮娅 © KURO GAMES · <a href="./assets/CREDITS.md">图片来源</a></sub>
+<p align="center"><sub><a href="./assets/CREDITS.md">素材来源</a></sub></p>
