@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Thanks for stopping by</title><desc id="desc">愿灵感与喜欢的事物，始终与你同频。</desc>
+  <defs><linearGradient id="bg" x2="1200" y2="180" gradientUnits="userSpaceOnUse"><stop stop-color="#F7F0FC"/><stop offset=".5" stop-color="#FCF2F7"/><stop offset="1" stop-color="#ECF5FB"/></linearGradient></defs>
+  <rect width="1200" height="180" rx="16" fill="url(#bg)"/>
+  <g stroke="#CBB7E5" opacity=".6"><circle cx="89" cy="134" r="62"/><circle cx="1090" cy="30" r="87"/><circle cx="1150" cy="127" r="26"/><path d="M0 144Q300 50 600 140T1200 98"/></g>
+  <g fill="#B39ACC"><path d="m132 35 3 9 9 3-9 3-3 9-3-9-9-3 9-3ZM1040 117l3 9 9 3-9 3-3 9-3-9-9-3 9-3Z"/><circle cx="240" cy="75" r="2"/><circle cx="976" cy="59" r="2"/></g>
+  <text x="600" y="79" text-anchor="middle" fill="#514060" font-family="Georgia,serif" font-size="31">Thanks for stopping by.</text>
+  <text x="600" y="118" text-anchor="middle" fill="#756682" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="18" letter-spacing="2">愿灵感与喜欢的事物，始终与你同频。</text>
+</svg>

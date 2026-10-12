@@ -1,121 +1,118 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,45:2563eb,100:7c3aed&text=guolola&fontAlign=50&fontAlignY=38&fontSize=76&fontColor=ffffff&desc=AI%20Assisted%20Software%20Engineering%20%7C%20UML%20Modeling%20%7C%20Frontend%20Prototypes&descAlign=50&descAlignY=58&descSize=18" alt="guolola profile banner" />
+  <img src="./assets/denia-banner.png" width="100%" alt="guolola — 达妮娅主题横幅，粉紫色星光与泡泡环绕的二次元小宇宙" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Turning+requirements+into+traceable+models.;Building+AI-assisted+UML+and+software+engineering+tools.;Designing+frontend+prototypes+that+make+systems+visible." alt="Typing SVG" />
-  </a>
+  <br />
+  <br />
+
+  **白天把想法写成代码，闲暇时去索拉里斯漫游。**
+
+  AI 辅助软件工程 · UML 建模 · 前端原型 · 鸣潮 / 达妮娅推
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=guolola&style=for-the-badge&color=2563eb" alt="profile views" />
-    <img src="https://img.shields.io/github/followers/guolola?style=for-the-badge&logo=github&color=7c3aed&label=Followers" alt="followers" />
-    <img src="https://img.shields.io/github/stars/guolola/uml-experimental-platform?style=for-the-badge&logo=github&color=0ea5e9&label=Main%20Project" alt="main project stars" />
+    <a href="https://github.com/guolola?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-我的仓库-b9a0df?style=flat-square&amp;labelColor=30283f" alt="浏览我的仓库" /></a>
+    <a href="https://github.com/guolola/uml-experimental-platform"><img src="https://img.shields.io/badge/BUILDING-UML_实验平台-e5acc8?style=flat-square&amp;labelColor=30283f" alt="正在构建 UML 实验平台" /></a>
+    <img src="https://img.shields.io/badge/心动角色-达妮娅-f1bfd5?style=flat-square&amp;labelColor=30283f" alt="喜欢的角色：鸣潮达妮娅" />
   </p>
+
+  <sub>✧ Code, dreams &amp; little wonders. ✧</sub>
 
 </div>
 
----
+<br />
 
-## Console
+## ✧ 关于我 · About me
 
-```txt
-guolola@github
------------------------------
-Role:        AI-assisted software engineering explorer
-Focus:       UML modeling, requirements engineering, prototypes
-Stack:       JavaScript, Vue, HTML, CSS, Node.js
-Current:     Building experimental platforms for software engineering education
-Signature:   Make ideas visible, traceable, and runnable
-```
+Hi，我是 **guolola**。喜欢把模糊的想法，慢慢变成看得见、讲得清、跑得起来的东西。
 
-## Tech Arsenal
+- **正在做**：面向软件工程教学的 AI 辅助实验平台。
+- **关注方向**：需求分析、UML 建模，以及从模型到前端原型的完整链路。
+- **日常工具**：JavaScript、Vue、HTML / CSS、Node.js。
+- **代码之外**：喜欢二次元，也喜欢《鸣潮》里的达妮娅。给代码留一点认真，也给喜欢的角色留一个位置。
+
+<p align="center"><img src="./assets/starlight-divider.svg" width="100%" height="32" alt="" /></p>
+
+## ✧ 技能背包 · My toolkit
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,vue,html,css,nodejs,git,github,vscode,figma&theme=dark" alt="skill icons" />
+  <img src="https://skillicons.dev/icons?i=js,vue,html,css,nodejs,git,github,vscode,figma&amp;perline=9&amp;theme=light" width="430" alt="JavaScript、Vue、HTML、CSS、Node.js、Git、GitHub、VS Code、Figma" />
 
   <br />
   <br />
 
-  <img src="https://img.shields.io/badge/UML_Modeling-111827?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="UML Modeling" />
-  <img src="https://img.shields.io/badge/Requirement_Engineering-1d4ed8?style=flat-square" alt="Requirement Engineering" />
-  <img src="https://img.shields.io/badge/AI_Assisted_Design-7c3aed?style=flat-square" alt="AI Assisted Design" />
-  <img src="https://img.shields.io/badge/Prototype_Systems-0891b2?style=flat-square" alt="Prototype Systems" />
+  <img src="https://img.shields.io/badge/UML_Modeling-c7b4e8?style=flat-square&amp;logo=diagramsdotnet&amp;logoColor=443653" alt="UML 建模" />
+  <img src="https://img.shields.io/badge/Requirements-ecc0d4?style=flat-square" alt="需求工程" />
+  <img src="https://img.shields.io/badge/AI_Assisted_Design-bbdde8?style=flat-square" alt="AI 辅助设计" />
+  <img src="https://img.shields.io/badge/Prototyping-d6c9f0?style=flat-square" alt="原型设计" />
 
 </div>
 
-## Featured Projects
+<br />
 
-| Project | What it does | Stack | Status |
-| --- | --- | --- | --- |
-| [uml-experimental-platform](https://github.com/guolola/uml-experimental-platform) | AI-assisted software engineering experiment platform for requirements, UML, PlantUML, prototypes, and documents. | JavaScript / React | Active |
-| [guolola-element-componentset](https://github.com/guolola/guolola-element-componentset) | Online demo site for a component set. | HTML | Published |
-| [Well-engineering-data-center](https://github.com/guolola/Well-engineering-data-center) | Well engineering data center prototype. | Vue | Prototype |
+## ✧ 作品陈列室 · Selected works
 
-## Data Pulse
+### 01 / [UML 实验平台](https://github.com/guolola/uml-experimental-platform)
 
-<table>
-  <tr>
-    <td><strong>Primary language</strong></td>
-    <td>JavaScript, Vue, HTML, CSS</td>
-  </tr>
-  <tr>
-    <td><strong>Main repository</strong></td>
-    <td><a href="https://github.com/guolola/uml-experimental-platform">uml-experimental-platform</a></td>
-  </tr>
-  <tr>
-    <td><strong>Recent focus</strong></td>
-    <td>AI-assisted modeling, requirements engineering, traceable prototypes</td>
-  </tr>
-</table>
+从需求、UML / PlantUML 到原型与文档，让软件工程实验拥有一条清晰、可追溯的路径。
 
-<p align="center">
-  <a href="https://github.com/guolola?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
-  </a>
-  <a href="https://github.com/guolola/uml-experimental-platform">
-    <img src="https://img.shields.io/badge/Main_Project-uml_experimental_platform-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Main project" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/JavaScript_·_React-b9a0df?style=flat-square" alt="JavaScript / React" /> <img src="https://img.shields.io/badge/持续构建中-e5acc8?style=flat-square" alt="持续构建中" />
 
-## Contribution Flow
+### 02 / [组件集在线演示](https://github.com/guolola/guolola-element-componentset)
+
+把组件放进真实页面里，直观展示界面、交互和使用方式。
+
+<img src="https://img.shields.io/badge/HTML-bbdde8?style=flat-square" alt="HTML" /> <img src="https://img.shields.io/badge/已发布-d6c9f0?style=flat-square" alt="已发布" />
+
+### 03 / [井工程数据中心](https://github.com/guolola/Well-engineering-data-center)
+
+面向井工程场景的数据中心原型，把业务信息组织成可浏览的界面。
+
+<img src="https://img.shields.io/badge/Vue-b9dccc?style=flat-square" alt="Vue" /> <img src="https://img.shields.io/badge/原型项目-ecc0d4?style=flat-square" alt="原型项目" />
+
+<br />
+
+<p align="center"><a href="https://github.com/guolola?tab=repositories">查看全部仓库 ↗</a></p>
+
+<p align="center"><img src="./assets/starlight-divider.svg" width="100%" height="32" alt="" /></p>
+
+## ✧ 每日足迹 · Little by little
+
+<p align="center"><sub>让每一次小小的提交，连成自己的星轨。</sub></p>
 
 <div align="center">
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="我的 GitHub 贡献蛇动画" src="https://raw.githubusercontent.com/guolola/guolola/output/github-contribution-grid-snake.svg" />
   </picture>
 
 </div>
 
-## Operating Principles
+<br />
 
-<table>
-  <tr>
-    <td><strong>Model first</strong></td>
-    <td>Turn vague requirements into explicit, inspectable structures.</td>
-  </tr>
-  <tr>
-    <td><strong>Trace everything</strong></td>
-    <td>Keep the path from requirement to model to prototype visible.</td>
-  </tr>
-  <tr>
-    <td><strong>Prototype fast</strong></td>
-    <td>Use runnable interfaces to test ideas before they harden.</td>
-  </tr>
-</table>
+<details>
+  <summary>✧ 我的构建习惯 · Behind the scenes</summary>
 
----
+  <br />
+
+  **先建模** — 把模糊需求变成明确、可检查的结构。
+
+  **保持可追溯** — 让需求、模型、原型之间的关系始终可见。
+
+  **尽早跑起来** — 用实际界面验证想法，再逐步完善。
+
+</details>
+
+<br />
 
 <div align="center">
 
-  <strong>Thanks for visiting. Build clearly, ship thoughtfully.</strong>
+  <img src="./assets/starlight-footer.svg" width="100%" alt="Thanks for stopping by — 愿灵感与喜欢的事物，始终与你同频。" />
 
+  <sub>达妮娅主题 · 非官方粉丝主页 · 角色属于《鸣潮》/ KURO GAMES</sub>
   <br />
-  <br />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,50:2563eb,100:0f172a" alt="footer wave" />
+  <sub>横幅为 AI 辅助创作，参考 <a href="https://www.kurobbs.com/mc/post/1505257912809955328?enter_source=2">库街区公开角色宣传图</a>。</sub>
 
 </div>
