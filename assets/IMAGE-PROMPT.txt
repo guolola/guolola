@@ -1,5 +1,12 @@
 Generated with the built-in image_gen tool. Original fan illustration; not an official game screenshot.
 
+BLUE REVISION (image edit, original pink illustration used as reference):
+Use case: lighting-weather and style-transfer edit.
+Edit the supplied pixel illustration for a Persona 3 Reload BLUE-themed GitHub profile. The user loves this exact illustration: preserve its composition, characters' identities, faces, poses, clothing details, rooftop fence and city architecture, username 'guolola', crisp pixel-art technique, and exact wide framing.
+Change only the atmospheric palette and decorative border. Replace the pervasive pink sunset with a luminous clear spring BLUE daytime sky, white clouds and cool cyan sunlight; use cobalt, azure, ice blue, and deep midnight blue for the environmental shadows, water, distant town and frame. Keep natural skin tones, Aigis's blonde hair, Makoto's dark blue hair, canon dark uniforms and the red ribbon. A small amount of pale pink in cherry blossoms is okay, but the overall art must immediately read as BLUE. Border and small decorative corners in ivory and cyan instead of pink. Keep the original tender rooftop scene: Makoto lying with his head in Aigis's lap. No new objects, no different characters, no redesign, no extra text, no watermark. Same image, beautiful spring daylight blue color treatment.
+
+ORIGINAL:
+
 Use case: stylized-concept.
 Asset: wide pixel-art header illustration for guolola's GitHub README, landscape 1536x768.
 Primary request: Persona 3 Reload's poignant spring SCHOOL ROOFTOP scene: Makoto Yuki (結城理) lies peacefully with his head resting in Aigis's lap, and Aigis gently cradles him. A tender, quiet scene, not action.
