@@ -23,3 +23,7 @@
 用户在本次对话提供截图，要求用于技术栈区域。新增 AI 应用、Agent、RAG、Python/FastAPI/Pydantic/SQLAlchemy、MySQL、RabbitMQ、Pinia、Webpack、Codex、Claude Code、HTTP/TCP/IP 等信息据此展示，并未声称全部都已在公开仓库核验。
 
 截图中“掌握”“熟悉”“了解”等层级不同，因此主页只列技术名与概念，不统一改写为精通。公开项目中核实的 Node.js、PostgreSQL 等仍保留。
+
+## 2026-10-13 更新
+
+井工程数据中心卡片新增 ECharts 图标，依据为上表中的 [井工程数据中心 / package.json](https://github.com/guolola/Well-engineering-data-center/blob/main/package.json)。技术栈各分类内容未变。

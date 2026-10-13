@@ -40,100 +40,8 @@
     "source": "https://github.com/a2aproject/A2A/blob/HEAD/docs/assets/a2a_logo/icon/color/SVG/a2a_icon_color.svg"
   },
   {
-    "file": "lucide-brain-circuit.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/brain-circuit.svg"
-  },
-  {
-    "file": "lucide-message-square.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/message-square.svg"
-  },
-  {
-    "file": "lucide-waves-horizontal.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/waves-horizontal.svg"
-  },
-  {
-    "file": "lucide-braces.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/braces.svg"
-  },
-  {
-    "file": "lucide-list-tree.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/list-tree.svg"
-  },
-  {
-    "file": "lucide-refresh-cw.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/refresh-cw.svg"
-  },
-  {
-    "file": "lucide-list-checks.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/list-checks.svg"
-  },
-  {
-    "file": "lucide-puzzle.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/puzzle.svg"
-  },
-  {
-    "file": "lucide-route.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/route.svg"
-  },
-  {
-    "file": "lucide-user-check.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/user-check.svg"
-  },
-  {
-    "file": "lucide-binary.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/binary.svg"
-  },
-  {
-    "file": "lucide-search.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/search.svg"
-  },
-  {
-    "file": "lucide-scissors.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/scissors.svg"
-  },
-  {
-    "file": "lucide-layers.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/layers.svg"
-  },
-  {
-    "file": "lucide-combine.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/combine.svg"
-  },
-  {
-    "file": "lucide-list-filter.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/list-filter.svg"
-  },
-  {
-    "file": "lucide-radio.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/radio.svg"
-  },
-  {
-    "file": "lucide-plug.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/plug.svg"
-  },
-  {
-    "file": "lucide-network.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/network.svg"
-  },
-  {
-    "file": "lucide-globe.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/globe.svg"
-  },
-  {
-    "file": "lucide-server.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/server.svg"
-  },
-  {
-    "file": "lucide-timer.svg",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/icons/timer.svg"
-  },
-  {
     "file": "LICENSE-LOBE",
     "source": "https://github.com/lobehub/lobe-icons/blob/HEAD/LICENSE"
-  },
-  {
-    "file": "LICENSE-LUCIDE",
-    "source": "https://github.com/lucide-icons/lucide/blob/HEAD/LICENSE"
   },
   {
     "file": "LICENSE-PINIA",
@@ -146,5 +54,21 @@
   {
     "file": "LICENSE-A2A",
     "source": "https://github.com/a2aproject/A2A/blob/HEAD/LICENSE"
+  },
+  {
+    "file": "vite.svg",
+    "source": "https://github.com/vitejs/vite/blob/main/docs/public/logo-without-border.svg"
+  },
+  {
+    "file": "echarts.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/apacheecharts.svg (brand colour #AA344D)"
+  },
+  {
+    "file": "LICENSE-VITE",
+    "source": "https://github.com/vitejs/vite/blob/main/LICENSE"
+  },
+  {
+    "file": "LICENSE-SIMPLE-ICONS",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md"
   }
 ]
